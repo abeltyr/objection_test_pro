@@ -25,7 +25,7 @@
     "express": "^4.17.1",
     "graphql": "^14.4.2",
     "graphql-import": "^0.7.1",
-    "knex": "^0.20.1",
+    "knex": "^2.4.0",
     "objection": "^1.6.11",
     "objection-guid": "^3.0.2",
     "objection-unique": "^1.2.0",
